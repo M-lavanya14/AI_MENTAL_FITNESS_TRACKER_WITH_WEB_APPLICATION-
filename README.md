@@ -14,8 +14,12 @@ Scalability: Designed for scalability, allowing for potential future enhancement
 
 **Technologies Used:**
 Python: Programming language used for data preprocessing, model training, and web application development.
+
 Scikit-learn: Python library utilized for implementing the Random Forest Regression algorithm.
+
 Flask: Web development framework used to create the user interface and integrate the machine learning model.
+
 HTML/CSS/JavaScript: Front-end technologies utilized for designing and styling the web application interface.
+
 GitHub: Version control platform used for managing and collaborating on the project codebase.
 
