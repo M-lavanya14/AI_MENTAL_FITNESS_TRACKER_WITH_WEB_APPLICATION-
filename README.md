@@ -13,6 +13,7 @@ Performance Evaluation: Evaluates model performance using metrics such as Mean S
 Scalability: Designed for scalability, allowing for potential future enhancements and extensions to the model.
 
 **Technologies Used:**
+
 Python: Programming language used for data preprocessing, model training, and web application development.
 
 Scikit-learn: Python library utilized for implementing the Random Forest Regression algorithm.
